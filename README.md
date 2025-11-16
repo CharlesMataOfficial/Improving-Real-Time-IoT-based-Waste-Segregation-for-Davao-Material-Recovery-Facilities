@@ -1,0 +1,3 @@
+Developed specifically to support the Davao City Material Recovery Facilities (MRF), this system provides real-time automated waste segregation using YOLOv8 for object detection and DeepSORT for tracking. It operates on a motorized conveyor belt equipped with a high-end camera, enabling fast and accurate classification.
+
+The system integrates IoT components—including sensors, motors, and a microcontroller—to automate sorting actions based on AI detections. It also features a locally curated dataset containing region-specific items such as durian, lanzones, and common recyclable and biodegradable waste.
